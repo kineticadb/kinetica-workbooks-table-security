@@ -5,4 +5,6 @@ Kinetica Workbooks that demonstrate table level security via column/row security
 
 
 ## More Information
-https://docs.kinetica.com/7.1/security/sec_concepts/#security-concepts-permissions-table) for more information about Kinetica table level security.
+[YouTube video - Table Level Security](https://youtu.be/XopOOMaruuU)
+
+Click [here](https://docs.kinetica.com/7.1/security/sec_concepts/#security-concepts-permissions-table) to learn more about Kinetica table level security.
